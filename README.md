@@ -41,3 +41,4 @@ On separating the heartbeat helper from the notifier:
 
 📍 Austin, TX · open to remote and relocation
 Currently open to Strategy, Operations, and Product roles.
+
